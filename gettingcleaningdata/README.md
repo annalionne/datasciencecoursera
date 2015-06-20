@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# datasciencecoursera
-especially for the course project
-=======
 # Getting and Cleaning Data Course Project
 The code in here was prepared for the Getting and Cleaning course project on Coursera.
 ## Data Source
@@ -16,4 +12,3 @@ The script does the following:
 
 ## Result
 The result is the R Code in the file run_analysis.R
->>>>>>> c0555dc6b8e7c4345c66f5b5147ec32e0462fd7c
