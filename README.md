@@ -9,5 +9,6 @@ The script does the following:
 * Uses descriptive activity names to name the activities in the data set
 * Appropriately labels the data set with descriptive variable names
 * Creates a second, independent tidy data set with the average of each variable for each activity and each subject
+
 ## Result
 The result is the R Code in the file run_analysis.R
